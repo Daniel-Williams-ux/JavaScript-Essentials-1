@@ -1,0 +1,10 @@
+JavaScript is a typical **interpreted language**.
+If we run a code written in JavaScript in a web browser, the interpreter will be the JavaScript engine built into the browser. This is not the only way to execute JavaScript code.
+**node.js** is also an interpreter, but installed independently of browsers as an environment in the computer's operating system (it can be macOS, Windows, or Linux). Using node.js allows you to write programs in JavaScript that will, for example, turn your computer into a server.
+Most modern JavaScript engines use the **Just In Time Compilation technique** (JIT Compilation).  This technique consists of compiling code fragments during the execution of the program (more than a single instruction) and allows you to increase its performance. 
+However, from the user's point of view, such a change is virtually unnoticeable – it still looks as if only the interpreter is executing the source code, instruction by instruction.
+Regardless of the language you choose, a few things remain the same while writing the program. 
+First of all,** an important, and probably the most difficult, stage of this process is to correctly define the problem we want to solve**. Only then do we try to find the optimal solution, which we will finally present in the form of a program written in the chosen language.
+
+As we mentioned before, JavaScript is an interpreted programming language. Like most interpreted languages, it is also a high-level language (i.e. relatively easy to understand for people and separating us from the hardware details).
+**Back in the early 90s, all web pages were static**. Things changed in **1995** when the **Netscape corporation** hired **Brendan Eich**, and tasked him to develop a new language for their product, **the Netscape Navigator web browser**. The new language was called **LiveScript**, but soon after its name was changed to JavaScript. Its main task was to add dynamics to websites, which would allow, for example, for more complex interaction with the user. And so the career of JavaScript began.
